@@ -1,0 +1,1 @@
+Building on the previous task, this assignment expands SQL expertise by incorporating advanced filtering, grouping, and range-based operations. It will refine the ability to manipulate data sets by using standard SQL clauses and membership operators. Such as :- Where Clause, Group By, Having Clause, Between, In and Not In.
